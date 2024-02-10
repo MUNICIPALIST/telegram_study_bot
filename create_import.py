@@ -9,7 +9,7 @@ from telebot import types
 
 
 
-bot = telebot.TeleBot('6765935549:AAHnkLMpWzgfC-JRElvWTYR6zgCXuAaWK2k')
+bot = telebot.TeleBot('token')
 
 
 def get_schedule():
